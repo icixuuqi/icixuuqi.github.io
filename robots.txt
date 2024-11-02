@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://icixuuqi.github.io/CTd/sitemap_index.txt
+Sitemap: https://icixuuqi.github.io/NDu/sitemap_index.txt
+Sitemap: https://icixuuqi.github.io/RgO/sitemap_index.txt
+Sitemap: https://icixuuqi.github.io/wKH/sitemap_index.txt
